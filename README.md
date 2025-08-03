@@ -1,4 +1,4 @@
-# teganography of Messages Encrypted With QR Code
+# Steganography of Messages Encrypted With QR Code
 This project implements a secure data-hiding technique using Elliptic Curve Cryptography (ECC), QR codes, and Least Significant Bit (LSB) steganography. The system encrypts a secret message, encodes it into a QR code, and embeds the QR code into a cover image to ensure data confidentiality and integrity.
 
 ## System Requirements
